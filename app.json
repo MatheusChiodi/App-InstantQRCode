@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "InstantQRCode",
+    "slug": "InstantQRCode",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": ["CAMERA"],
+      "package": "com.matheuschiodi.InstantQRCode",
+      "versionCode": 4
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "30b5ce97-86b7-44c7-9dbd-12e9b656e350"
+      }
+    }
+  }
+}
