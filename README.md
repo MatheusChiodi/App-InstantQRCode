@@ -16,7 +16,6 @@ O InstantQRCode é uma ferramenta essencial para a era digital, facilitando a in
 
 ## Funcionalidades
 
-- **Gerar QR Codes:** Crie seus próprios QR Codes para textos, URLs ou outras informações.
 - **Salvar QR Codes:** Guarde os QR Codes gerados para referência futura.
 - **Compartilhar QR Codes:** Compartilhe facilmente seus QR Codes com outros através de redes sociais, e-mail, etc.
 - **Ler QR Codes:** Use a câmera do dispositivo para ler QR Codes e acessar o conteúdo vinculado instantaneamente.
