@@ -26,6 +26,6 @@ Para executar este projeto, siga os passos abaixo:
 
 ```bash
 git clone https://github.com/MatheusChiodi/App-InstantQRCode.git
-cd instant-qrcode
+cd App-InstantQRCode
 npm install
 npm start
