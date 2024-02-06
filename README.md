@@ -1,6 +1,6 @@
 # InstantQRCode
 
-O InstantQRCode é um aplicativo versátil desenvolvido em [React Native](https://reactnative.dev/) que permite aos usuários criar, salvar, compartilhar e abrir QR Codes de maneira rápida e eficiente.
+O InstantQRCode é um aplicativo versátil desenvolvido em [React Native](https://reactnative.dev/) que permite aos usuários salvar, compartilhar e abrir QR Codes de maneira rápida e eficiente.
 
 ## Tecnologia Utilizada
 
