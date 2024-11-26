@@ -1,21 +1,21 @@
 # InstantQRCode
 
-O InstantQRCode é um aplicativo versátil desenvolvido em [React Native](https://reactnative.dev/) que permite aos usuários salvar, compartilhar e abrir QR Codes de maneira rápida e eficiente.
+InstantQRCode is a versatile application developed with [React Native](https://reactnative.dev/) that enables users to save, share, and access QR Codes quickly and efficiently.
 
-## Tecnologia Utilizada
+## Technology Used
 
-Este projeto foi desenvolvido utilizando React Native, um framework robusto para desenvolvimento de aplicativos móveis multiplataforma.
+This project was built using React Native, a robust framework for cross-platform mobile app development.
 
-## Desenvolvedor
+## Developer
 
-Este projeto foi cuidadosamente desenvolvido por [Matheus Chiodi](https://github.com/MatheusChiodi).
+This project was carefully crafted by [Matheus Chiodi](https://github.com/MatheusChiodi).
 
-## Sobre o Projeto
+## About the Project
 
-O InstantQRCode é uma ferramenta essencial para a era digital, facilitando a interação com conteúdos através de QR Codes. Seja para salvar um QR Code para uso futuro, compartilhá-lo com amigos ou colegas, ou simplesmente para acessar rapidamente o conteúdo a que o código se refere, o InstantQRCode atende a todas essas necessidades com uma interface simples e intuitiva.
+InstantQRCode is an essential tool for the digital age, simplifying interactions with content through QR Codes. Whether you need to save a QR Code for future use, share it with friends or colleagues, or quickly access the content it refers to, InstantQRCode meets all these needs with a simple and intuitive interface.
 
-## Funcionalidades
+## Features
 
-- **Salvar QR Codes:** Guarde os QR Codes gerados para referência futura.
-- **Compartilhar QR Codes:** Compartilhe facilmente seus QR Codes com outros através de redes sociais, e-mail, etc.
-- **Ler QR Codes:** Use a câmera do dispositivo para ler QR Codes e acessar o conteúdo vinculado instantaneamente.
+- **Save QR Codes:** Store generated QR Codes for future reference.
+- **Share QR Codes:** Easily share your QR Codes with others via social media, email, and more.
+- **Scan QR Codes:** Use your device's camera to scan QR Codes and instantly access linked content.
